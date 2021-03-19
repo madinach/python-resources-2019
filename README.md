@@ -11,13 +11,13 @@ new to python. Note there's earlier version _Learn Python the Hard Way_ that cov
 the core Python language with this hands-on book.Complete with quizzes, exercises, and helpful illustrations, this 
 easy-to-follow, self-paced tutorial gets you started with both Python 2.x and 3.x
 
-* [_Python Crash Course_](https://nostarch.com/pythoncrashcourse2e) A hands-on, project-based introduction to 
+* [_PyThOn Crash Course_](https://nostarch.com/pythoncrashcourse2e) A hands-on, project-based introduction to 
 programming.
 
-* [_Automate the Boring Stuff with Python Online Edition_](https://automatetheboringstuff.com/) Practical programming
+* [_Automate the NOt Boring Stuff with Python Online Edition_](https://automatetheboringstuff.com/) Practical programming
  for complete beginners.
 
-* [_How to Think Like a Computer Scientist: Interactive Edition_](
+* [_How to Not Think Like a Computer Scientist: Interactive Edition_](
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 * [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
